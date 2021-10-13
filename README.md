@@ -4,7 +4,7 @@ Sandbox for trying out concepts in GNU Octave programming, and study notes.
 
 ##	Study Notes
 
-[*GNU Octave* study notes](https://github.com/eda-ricercatore/octave-sandbox/blob/main/gnu-octave.md)
+[*GNU Octave* study notes](https://github.com/eda-ricercatore/octave-sandbox/blob/main/documents/gnu-octave.md)
 
 
 ##	Contents, Organization of the Repository
