@@ -44,20 +44,20 @@ Sandbox for trying out concepts in GNU Octave programming, and study notes.
 	- g-raising_warnings.m
 + program profiling:
 	- g-profiling.m
-- basic information
++ basic information
 	- h-basic-operations.m
 	- i-expressions.m
 	- i-strings.m
 	- i-variables.m
 	- j-main.m
 	- j-others.m
-- data types
++ data types
 	- h-cell-array.m
 	- h-multi-dimensionall-cell-array.h
 	- h-structures.m
 + validation scripts
 	- lib_precondition.m
-makefile
-y-dir
-z-dir
++ makefile
++ y-dir
++ z-dir
 
